@@ -1,2 +1,5 @@
-# springbootdemo
+设计# springbootdemo
 一个简单springboot练习
+关于网络博彩的数据统计功能，根据其概率预测后期出现数字机率，转换学习参考，不可用于谋利。
+可自行配置数据源，进行练习测试
+运用echars图表直观展示
